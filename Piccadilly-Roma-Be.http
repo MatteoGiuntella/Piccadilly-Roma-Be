@@ -1,0 +1,6 @@
+@Piccadilly_Roma_Be_HostAddress = http://localhost:5047
+
+GET {{Piccadilly_Roma_Be_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
